@@ -35,6 +35,5 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.esri.arcgis.android:arcgis-android:10.2.7'
     compile 'com.google.android.gms:play-services-maps:11.0.4'
-    compile 'com.google.android.gms:play-services-location:10.+’
     testCompile 'junit:junit:4.12'
 }
